@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Skecher</string>
+
+    <string name="pick_a_color">选择颜色</string>
+    <string name="saving_to_sd_please_wait">正在保存至SD卡...</string>
+    <string name="successfully_saved_to">图片保存至 "%s"</string>
+    <string name="please_wait">请稍等...</string>
+    <string name="sd_card_is_not_available">SD 卡不可用</string>
+    <string name="send_image_to">发送至:</string>
+
+    <!-- Confirm dialog -->
+    <string name="yes">Yes</string>
+	<string name="are_you_sure">确认清除画布吗?
+	</string>
+
+    <!-- Menu -->
+    <string name="brushes">Brushes</string>
+    <string name="color">Color</string>
+    <string name="clear">Clear</string>
+    <string name="send">Share</string>
+    <string name="save">Save</string>
+    <string name="about">About</string>
+    <string name="undo">Undo</string>
+
+    <!-- Submenu -->
+    <string name="grid">Grid</string>
+    <string name="circles">Circles</string>
+    <string name="ribbon">Ribbon</string>
+    <string name="squares">Squares</string>
+    <string name="web">Web</string>
+    <string name="longfur">Longfur</string>
+    <string name="fur">Fur</string>
+    <string name="chrome">Chrome</string>
+    <string name="shaded">Shaded</string>
+    <string name="simple">Simple</string>
+    <string name="sketchy">Sketchy</string>
+    <string name="eraser">Eraser</string>
+
+    <!-- Picker dialog -->
+    <string name="accept">确认</string>
+    <string name="cancel">取消</string>
+
+    <!-- About dialog -->
+    <string name="about_title">关于?</string>
+	<string name="about_text">关于联想社区</string>
+    <string name="button_close">关闭</string>
+</resources>

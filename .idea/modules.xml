@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HackArt.iml" filepath="$PROJECT_DIR$/HackArt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/artpen/artpen.iml" filepath="$PROJECT_DIR$/artpen/artpen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/garden/garden.iml" filepath="$PROJECT_DIR$/garden/garden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silkpen/silkpen.iml" filepath="$PROJECT_DIR$/silkpen/silkpen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skecher/skecher.iml" filepath="$PROJECT_DIR$/skecher/skecher.iml" />
+    </modules>
+  </component>
+</project>

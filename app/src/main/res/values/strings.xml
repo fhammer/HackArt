@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HackArt</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_width">线宽</string>
+    <string name="action_radius">半径</string>
+    <string name="action_bgcolors">背景颜色</string>
+    <string name="action_colors">线条颜色</string>
+    <string name="action_save">保存</string>
+    <string name="action_clear">清除</string>
+</resources>

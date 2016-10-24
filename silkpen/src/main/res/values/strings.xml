@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SilkPen</string>
+    <string name="save_bitmap">已保存绘画图片</string>
+    <string name="fail_save_bitmap">找不到SD卡，保存失败</string>
+</resources>

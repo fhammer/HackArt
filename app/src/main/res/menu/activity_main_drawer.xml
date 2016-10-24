@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_lines"
+            android:icon="@mipmap/brush_simple"
+            android:title="画线"/>
+        <item
+            android:id="@+id/nav_fur"
+            android:icon="@mipmap/brush_fur"
+            android:title="毛皮"/>
+        <item
+            android:id="@+id/nav_silk"
+            android:icon="@mipmap/brush_ribbon_sigle"
+            android:title="丝带"/>
+        <item
+            android:id="@+id/nav_ribbon"
+            android:icon="@mipmap/brush_ribbon"
+            android:title="多色丝带"/>
+    </group>
+
+    <item android:title="分享">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@mipmap/ic_share"
+                android:title="Share"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@android:drawable/ic_menu_send"
+                android:title="Send"/>
+        </menu>
+    </item>
+
+</menu>
